@@ -60,5 +60,4 @@ var visualization = d3plus
   .id('name')
   .x('year')
   .y('value')
-  .axes({ ticks: 'false' })
   .draw();
